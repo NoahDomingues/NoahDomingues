@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-[<img src="https://github.com/user-attachments/assets/7fe76dd2-d329-420f-a809-7424960cf766">](https://discord.gg/3zbfaTNN7V)
+[<img src="https://github.com/user-attachments/assets/c62c6e40-c86f-4790-ac95-bb3dbf80a00f">](https://discord.gg/3zbfaTNN7V)
 
 ## 🙋‍♂️ Who I am
 
