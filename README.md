@@ -10,6 +10,8 @@ I am the founder of the **[Lithium Project](https://github.com/NoahDomingues/Lit
 
 If you like any of my software, you are welcome to contribute where you can by making pull requests - or if you'd like to use my code or collaborate with me, feel free!
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NoahDomingues.NoahDomingues) [![Follow @NoahDomingues on GitHub](https://img.shields.io/github/followers/NoahDomingues?label=Follow&style=social)](https://github.com/NoahDomingues)
+
 ## 🛠️ Languages and tools:
 <p align="left">
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="REACT" style="max-width: 100%;" height="40"></a>
