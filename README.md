@@ -33,6 +33,15 @@ If you like any of my software, you are welcome to contribute where you can by m
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="iOS" style="max-width: 100%;" height="40"></a>
 </p>
 
+## 📈 GitHub Stats
+
+<a href="https://github.com/NoahDomingues/NoahDomingues">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoahDomingues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="affggh's GitHub Stats" />
+</a>
+<a href="https://github.com/NoahDomingues/NoahDomingues">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahDomingues&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
 ## 👊 Find me on...
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsnoahdomingues) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/6I4XmPMX2U6239LfO1KgPr) [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://last.fm/artist/Noah+Domingues) [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UC_MrgPmtT0-d6Dqd4QVe5GQ?si=MLKYquRrITFrhqEa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@NoahDomingues?sub_confirmation=1)
