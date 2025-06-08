@@ -85,6 +85,10 @@ If you like any of my software, you are welcome to contribute where you can by m
 
 ![Joke of the day](https://readme-jokes.vercel.app/api)
 
+## 👀 Visitor count
+
+![Visitor Count](https://profile-counter.glitch.me/NoahDomingues/count.svg)
+
 ## 🏆 Trophies
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NoahDomingues)
