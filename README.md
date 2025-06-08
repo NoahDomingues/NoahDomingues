@@ -44,10 +44,10 @@ If you like any of my software, you are welcome to contribute where you can by m
 
 ## 🌟 Top repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=OFP-Extractor)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=MTK-ROM-Porter)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium-Beta)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=OFP-Extractor)](https://github.com/NoahDomingues/OFP-Extractor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=MTK-ROM-Porter)](https://github.com/NoahDomingues/MTK-ROM-Porter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium)](https://github.com/NoahDomingues/Lithium)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium-Beta)](https://github.com/NoahDomingues/Lithium-Beta)
 
 ## 👊 Find me on...
 
