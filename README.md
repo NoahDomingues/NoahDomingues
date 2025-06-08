@@ -44,11 +44,24 @@ If you like any of my software, you are welcome to contribute where you can by m
 
 ## 🌟 Top repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=OFP-Extractor)](https://github.com/NoahDomingues/OFP-Extractor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=MTK-ROM-Porter)](https://github.com/NoahDomingues/MTK-ROM-Porter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium)](https://github.com/NoahDomingues/Lithium)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium-Beta)](https://github.com/NoahDomingues/Lithium-Beta)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=OFP-Extractor&theme=blue-green)](https://github.com/NoahDomingues/OFP-Extractor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=MTK-ROM-Porter&theme=blue-green)](https://github.com/NoahDomingues/MTK-ROM-Porter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium&theme=blue-green)](https://github.com/NoahDomingues/Lithium)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium-Beta&theme=blue-green)](https://github.com/NoahDomingues/Lithium-Beta)
+<!-- 
+<a href="https://github.com/NoahDomingues/NoahDomingues">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=OFP-Extractor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+</a>
+<a href="https://github.com/NoahDomingues/NoahDomingues">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=MTK-ROM-Porter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+</a>
+<a href="https://github.com/NoahDomingues/NoahDomingues">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+</a>
+<a href="https://github.com/NoahDomingues/NoahDomingues">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium-Beta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+</a>
+-->
 ## 👊 Find me on...
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsnoahdomingues) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/6I4XmPMX2U6239LfO1KgPr) [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://last.fm/artist/Noah+Domingues) [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UC_MrgPmtT0-d6Dqd4QVe5GQ?si=MLKYquRrITFrhqEa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@NoahDomingues?sub_confirmation=1)
