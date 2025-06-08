@@ -39,7 +39,7 @@ If you like any of my software, you are welcome to contribute where you can by m
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoahDomingues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="affggh's GitHub Stats" />
 </a>
 <a href="https://github.com/NoahDomingues/NoahDomingues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahDomingues&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahDomingues&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
 </a>
 
 ## 🌟 Top repositories
