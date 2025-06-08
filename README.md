@@ -48,6 +48,10 @@ If you like any of my software, you are welcome to contribute where you can by m
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahDomingues&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
 </a>
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+
 ## 🌟 Top repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=OFP-Extractor&theme=blue-green)](https://github.com/NoahDomingues/OFP-Extractor)
