@@ -10,7 +10,7 @@ I am the founder of the **[Lithium Project](https://github.com/NoahDomingues/Lit
 
 If you like any of my software, you are welcome to contribute where you can by making pull requests - or if you'd like to use my code or collaborate with me, feel free!
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NoahDomingues.NoahDomingues) [![Follow @NoahDomingues on GitHub](https://img.shields.io/github/followers/NoahDomingues?label=Follow&style=social)](https://github.com/NoahDomingues)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NoahDomingues.NoahDomingues) [![wakatime](https://wakatime.com/badge/user/ea04b493-bc6a-4ff5-88e9-17e7f6a3eb9e.svg)](https://wakatime.com/@ea04b493-bc6a-4ff5-88e9-17e7f6a3eb9e) [![Follow @NoahDomingues on GitHub](https://img.shields.io/github/followers/NoahDomingues?label=Follow&style=social)](https://github.com/NoahDomingues)
 
 <!--
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/NoahDomingues/Lithium?style=flat)
@@ -72,6 +72,18 @@ If you like any of my software, you are welcome to contribute where you can by m
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium-Beta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
 </a>
 -->
+
+## 🎖 Holopin badges
+
+[![An image of @noahdomingues's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/noahdomingues)](https://holopin.io/@noahdomingues)
+
+## 🕰️ Coding stats (WakaTime)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@NoahDomingues)
+
+## 😂 Joke of the day
+
+![Joke of the day](https://readme-jokes.vercel.app/api)
 
 ## 🏆 Trophies
 
