@@ -1,4 +1,6 @@
-# Security
+# 🔒 Security
+
+[<img src="https://github.com/user-attachments/assets/c62c6e40-c86f-4790-ac95-bb3dbf80a00f">](https://discord.gg/3zbfaTNN7V)
 
 I take the security of my software products and services seriously, including [Lithium 5](https://github.com/NoahDomingues/Lithium).
 
