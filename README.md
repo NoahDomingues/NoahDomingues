@@ -33,7 +33,7 @@ If you like any of my software, you are welcome to contribute where you can by m
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="iOS" style="max-width: 100%;" height="40"></a>
 </p>
 
-## 📈 GitHub Stats
+## 📈 GitHub stats
 
 <a href="https://github.com/NoahDomingues/NoahDomingues">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoahDomingues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="affggh's GitHub Stats" />
