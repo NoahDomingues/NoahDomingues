@@ -85,7 +85,7 @@ If you like any of my software, you are welcome to contribute where you can by m
 -->
 
 <a href="https://github.com/NoahDomingues/NoahDomingues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@NoahDomingues&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=NoahDomingues&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 😂 Joke of the day
