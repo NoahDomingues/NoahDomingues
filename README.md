@@ -51,9 +51,9 @@ If you like any of my software, you are welcome to contribute where you can by m
 
 <!-- REMOVED WHILE UNAVAILABLE
 ## 🔥 GitHub Streak
--->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoahDomingues&theme=dark)
+-->
 
 ## 🧪 Activity
 
