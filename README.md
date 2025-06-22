@@ -53,6 +53,12 @@ If you like any of my software, you are welcome to contribute where you can by m
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
 
+## 🧪 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoahDomingues&theme=github-dark&hide_border=false" />
+</div>
+
 ## 🌟 Top repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=OFP-Extractor&theme=blue-green)](https://github.com/NoahDomingues/OFP-Extractor)
@@ -100,9 +106,21 @@ If you like any of my software, you are welcome to contribute where you can by m
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NoahDomingues)
 
+<!--
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=NoahDomingues&theme=darkhub&no-frame=true&column=7&margin-w=10" />
+</div>
+-->
+
 ## 👊 Find me on...
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsnoahdomingues) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/6I4XmPMX2U6239LfO1KgPr) [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://last.fm/artist/Noah+Domingues) [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UC_MrgPmtT0-d6Dqd4QVe5GQ?si=MLKYquRrITFrhqEa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@NoahDomingues?sub_confirmation=1)
+
+<!-- End-of-page banner-->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
 
 
 <!--
