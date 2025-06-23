@@ -124,6 +124,18 @@ If you like any of my software, you are welcome to contribute where you can by m
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
+## ⚡ My projects
+
+[<img src="https://github.com/user-attachments/assets/7fe76dd2-d329-420f-a809-7424960cf766">](https://discord.gg/3zbfaTNN7V)
+
+[<img src="https://github.com/user-attachments/assets/9a97cd0d-39f7-45d0-a56b-7e44221b8e87">](https://discord.gg/3zbfaTNN7V)
+
+[<img src="https://github.com/user-attachments/assets/7720f0a2-2489-42d8-acc7-a862b021eec5">](https://discord.gg/3zbfaTNN7V)
+
+[<img src="https://github.com/user-attachments/assets/0a4bb969-dec8-42f2-afd8-0858283ac3fe">](https://discord.gg/3zbfaTNN7V)
+
+[<img src="https://github.com/user-attachments/assets/63ee6f6f-5b81-4b77-b522-a6a9b7046639">](https://discord.gg/Z88NnTgpWU)
+
 
 <!--
 **NoahDomingues/NoahDomingues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
