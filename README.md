@@ -120,11 +120,11 @@ If you like any of my software, you are welcome to contribute where you can by m
 
 ---
 
+## ⚡ My projects
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&reversal=true" />
 </div>
-
-## ⚡ My projects
 
 [<img src="https://github.com/user-attachments/assets/7fe76dd2-d329-420f-a809-7424960cf766">](https://discord.gg/3zbfaTNN7V)
 
