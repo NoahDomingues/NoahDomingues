@@ -66,7 +66,10 @@ If you like any of my software, you are welcome to contribute where you can by m
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=OFP-Extractor&theme=blue-green)](https://github.com/NoahDomingues/OFP-Extractor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=MTK-ROM-Porter&theme=blue-green)](https://github.com/NoahDomingues/MTK-ROM-Porter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium&theme=blue-green)](https://github.com/NoahDomingues/Lithium)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Lithium-Beta&theme=blue-green)](https://github.com/NoahDomingues/Lithium-Beta)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Android-IMG-Editor&theme=blue-green)](https://github.com/NoahDomingues/Android-IMG-Editor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=Auto-TWRP-Builder&theme=blue-green)](https://github.com/NoahDomingues/Auto-TWRP-Builder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=MTK-Toolbox&theme=blue-green)](https://github.com/NoahDomingues/MTK-Toolbox)
+
 <!-- 
 <a href="https://github.com/NoahDomingues/NoahDomingues">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahDomingues&repo=OFP-Extractor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
