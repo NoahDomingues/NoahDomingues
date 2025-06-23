@@ -134,6 +134,8 @@ If you like any of my software, you are welcome to contribute where you can by m
 
 [<img src="https://github.com/user-attachments/assets/0a4bb969-dec8-42f2-afd8-0858283ac3fe">](https://discord.gg/3zbfaTNN7V)
 
+[<img src="https://github.com/user-attachments/assets/9fdc99bb-dd90-4572-ad78-e824e6e7c64b">](https://discord.gg/3zbfaTNN7V)
+
 [<img src="https://github.com/user-attachments/assets/63ee6f6f-5b81-4b77-b522-a6a9b7046639">](https://discord.gg/Z88NnTgpWU)
 
 <div align="center">
