@@ -109,13 +109,13 @@ If you like any of my software, you are welcome to contribute where you can by m
 
 ## 🏆 Trophies
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NoahDomingues)
-
 <!--
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=NoahDomingues&theme=darkhub&no-frame=true&column=7&margin-w=10" />
 </div>
 -->
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NoahDomingues)
 
 ## 👊 Find me on...
 
