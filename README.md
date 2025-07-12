@@ -143,6 +143,8 @@ If you like any of my software, you are welcome to contribute where you can by m
 
 [<img src="https://github.com/user-attachments/assets/63ee6f6f-5b81-4b77-b522-a6a9b7046639">](https://github.com/NoahDomingues/OFP-Extractor)
 
+[<img src="https://github.com/user-attachments/assets/8296952d-b975-4e73-9e24-76e1156e627b">](https://github.com/NoahDomingues/OFDR-Patcher)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
