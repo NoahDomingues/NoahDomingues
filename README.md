@@ -145,6 +145,8 @@ If you like any of my software, you are welcome to contribute where you can by m
 
 [<img src="https://github.com/user-attachments/assets/d73ffbd2-a043-4894-b9fc-b1ad10105bf3">](https://github.com/NoahDomingues/OFDR-Patcher)
 
+[<img src="https://github.com/user-attachments/assets/b20a8e62-95f1-4a9c-8d39-609dbde508ad">](https://github.com/NoahDomingues/FUI-SWF-Converter)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
