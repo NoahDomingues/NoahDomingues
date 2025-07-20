@@ -147,6 +147,8 @@ If you like any of my software, you are welcome to contribute where you can by m
 
 [<img src="https://github.com/user-attachments/assets/b20a8e62-95f1-4a9c-8d39-609dbde508ad">](https://github.com/NoahDomingues/FUI-SWF-Converter)
 
+[<img src="https://github.com/user-attachments/assets/5099c8ea-53ea-4609-b53b-91b7668f255a">](https://github.com/NoahDomingues/STF-DDS-Converter)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
