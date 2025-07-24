@@ -129,6 +129,7 @@ If you like any of my software, you are welcome to contribute where you can by m
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&reversal=true" />
 </div>
 
+<!-- OLD PROJECT CARDS
 [<img src="https://github.com/user-attachments/assets/7fe76dd2-d329-420f-a809-7424960cf766">](https://github.com/NoahDomingues/Lithium)
 
 [<img src="https://github.com/user-attachments/assets/9a97cd0d-39f7-45d0-a56b-7e44221b8e87">](https://github.com/NoahDomingues/MTK-ROM-Porter)
@@ -150,6 +151,35 @@ If you like any of my software, you are welcome to contribute where you can by m
 [<img src="https://github.com/user-attachments/assets/5099c8ea-53ea-4609-b53b-91b7668f255a">](https://github.com/NoahDomingues/STF-DDS-Converter)
 
 [<img src="https://github.com/user-attachments/assets/83949190-fb98-4c92-9db1-361d432d3ef8">](https://github.com/NoahDomingues/XML-Extractor)
+-->
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none;"><a href="https://github.com/NoahDomingues/Lithium"><img src="https://github.com/user-attachments/assets/7fe76dd2-d329-420f-a809-7424960cf766"></a></td>
+    <td style="border: none;"><a href="https://github.com/NoahDomingues/MTK-ROM-Porter"><img src="https://github.com/user-attachments/assets/9a97cd0d-39f7-45d0-a56b-7e44221b8e87"></a></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://github.com/NoahDomingues/Android-IMG-Editor"><img src="https://github.com/user-attachments/assets/7720f0a2-2489-42d8-acc7-a862b021eec5"></a></td>
+    <td style="border: none;"><a href="https://github.com/NoahDomingues/Auto-TWRP-Builder"><img src="https://github.com/user-attachments/assets/0a4bb969-dec8-42f2-afd8-0858283ac3fe"></a></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://github.com/NoahDomingues/MTK-Toolbox"><img src="https://github.com/user-attachments/assets/9fdc99bb-dd90-4572-ad78-e824e6e7c64b"></a></td>
+    <td style="border: none;"><a href="https://github.com/NoahDomingues/Auto-Custom-Recovery-Builder"><img src="https://github.com/user-attachments/assets/f07a9fd8-4e59-481f-a16a-3e81e6f49dba"></a></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://github.com/NoahDomingues/OFP-Extractor"><img src="https://github.com/user-attachments/assets/63ee6f6f-5b81-4b77-b522-a6a9b7046639"></a></td>
+    <td style="border: none;"><a href="https://github.com/NoahDomingues/OFDR-Patcher"><img src="https://github.com/user-attachments/assets/d73ffbd2-a043-4894-b9fc-b1ad10105bf3"></a></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://github.com/NoahDomingues/FUI-SWF-Converter"><img src="https://github.com/user-attachments/assets/b20a8e62-95f1-4a9c-8d39-609dbde508ad"></a></td>
+    <td style="border: none;"><a href="https://github.com/NoahDomingues/STF-DDS-Converter"><img src="https://github.com/user-attachments/assets/5099c8ea-53ea-4609-b53b-91b7668f255a"></a></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://github.com/NoahDomingues/XML-Extractor"><img src="https://github.com/user-attachments/assets/83949190-fb98-4c92-9db1-361d432d3ef8"></a></td>
+    <td style="border: none;"></td>
+  </tr>
+</table>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
