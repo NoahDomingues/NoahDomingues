@@ -6,7 +6,7 @@
 
 Hi, and welcome to my GitHub profile. I'm Noah, I'm an indie music artist, student, writer, photographer and graphic designer. I also enjoy developing software, which is what my GitHub is for.
 
-I am the founder of the **[Lithium Project](https://github.com/NoahDomingues/Lithium)**, an open-source custom Android-based operating system built for MediaTek devices. My mission is to give users the _freedom_ over their own devices, without manufacturer control or surveillance. I also maintain a few other projects, notably **[OFP Extractor](https://github.com/NoahDomingues/OFP-Extractor)** - a tool that enables users to unpack the game files of _Operation Flashpoint: Dragon Rising_ and _Operation Flashpoint: Red River_; and **[MTK ROM Porter](https://github.com/NoahDomingues/MTK-ROM-Porter)**, a tool to facilitate porting of Android ROMs for MediaTek devices.
+I am the founder of the **[Lithium Project](https://github.com/NoahDomingues/Lithium)**, an open-source custom Android-based operating system built for MediaTek devices. My mission is to give users the _freedom_ over their own devices, without manufacturer control or surveillance. I also maintain a few other projects, notably **[OFP Extractor](https://github.com/NoahDomingues/OFP-Extractor)** - a tool that enables users to unpack the game files of _Operation Flashpoint: Dragon Rising_ and _Operation Flashpoint: Red River_; and **[Android IMG Editor](https://github.com/NoahDomingues/Android-IMG-Editor)**, a tool to facilitate porting of Android ROMs for MediaTek devices.
 
 If you like any of my software, you are welcome to contribute where you can by making pull requests - or if you'd like to use my code or collaborate with me, feel free!
 
@@ -46,7 +46,7 @@ If you like any of my software, you are welcome to contribute where you can by m
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoahDomingues&theme=github_dark" />
 </a>
 <a href="https://github.com/NoahDomingues/NoahDomingues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoahDomingues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="affggh's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoahDomingues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="NoahDomingues' GitHub Stats" />
 </a>
 <a href="https://github.com/NoahDomingues/NoahDomingues">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahDomingues&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
